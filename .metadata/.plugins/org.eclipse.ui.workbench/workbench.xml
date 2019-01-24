@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="28" version="2.0">
+<workbench progressCount="30" version="2.0">
 <workbenchAdvisor/>
 <window height="728" maximized="true" width="1024" x="150" y="0">
 <fastViewData fastViewLocation="1024"/>
@@ -38,13 +38,18 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
+<part id="1"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ThisTest.java" partName="ThisTest.java" path="D:/learnjava/learnjava/20190122Test/src/ThisTest01/ThisTest.java" title="ThisTest.java" tooltip="20190122Test/src/ThisTest01/ThisTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/20190122Test/src/ThisTest01/ThisTest.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="443" selectionTopPixel="51"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConstructorTest.java" partName="ConstructorTest.java" path="D:/learnjava/learnjava/JavaTest/src/JavaTest20190120/ConstructorTest.java" title="ConstructorTest.java" tooltip="JavaTest/src/JavaTest20190120/ConstructorTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaTest/src/JavaTest20190120/ConstructorTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="450" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Constructor.java" partName="Constructor.java" path="D:/learnjava/learnjava/JavaTest/src/JavaTest20190120/Constructor.java" title="Constructor.java" tooltip="JavaTest/src/JavaTest20190120/Constructor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaTest/src/JavaTest20190120/Constructor.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="484" selectionTopPixel="7"/>
 </editor>
 </editors>
 <views>
@@ -462,6 +467,8 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/JavaTest/src/JavaTest20190120/ConstructorTest.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/JavaTest/src/JavaTest20190120/Constructor.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/20190122Test/src/ThisTest01/ThisTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/JavaTest/src/JavaTest20190120/ConstructorTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/JavaTest/src/JavaTest20190120/Constructor.java"/>
 </editors>
 <item historyLabel="Constructor.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
@@ -538,8 +545,23 @@
 <item historyLabel="ThisTest.java" index="3">
 <position info="not_deleted" x="389" y="0"/>
 </item>
-<item active="true" historyLabel="ThisTest.java" index="3">
-<position info="not_deleted" x="441" y="0"/>
+<item historyLabel="ThisTest.java" index="3">
+<position info="not_deleted" x="443" y="0"/>
+</item>
+<item historyLabel="ConstructorTest.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Constructor.java" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Constructor.java" index="5">
+<position info="not_deleted" x="451" y="0"/>
+</item>
+<item historyLabel="Constructor.java" index="5">
+<position info="not_deleted" x="484" y="0"/>
+</item>
+<item active="true" historyLabel="ConstructorTest.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -558,14 +580,14 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ThisTest.java" tooltip="20190122Test/src/ThisTest01/ThisTest.java">
-<persistable path="/20190122Test/src/ThisTest01/ThisTest.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Constructor.java" tooltip="JavaTest/src/JavaTest20190120/Constructor.java">
+<persistable path="/JavaTest/src/JavaTest20190120/Constructor.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConstructorTest.java" tooltip="JavaTest/src/JavaTest20190120/ConstructorTest.java">
 <persistable path="/JavaTest/src/JavaTest20190120/ConstructorTest.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Constructor.java" tooltip="JavaTest/src/JavaTest20190120/Constructor.java">
-<persistable path="/JavaTest/src/JavaTest20190120/Constructor.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ThisTest.java" tooltip="20190122Test/src/ThisTest01/ThisTest.java">
+<persistable path="/20190122Test/src/ThisTest01/ThisTest.java"/>
 </file>
 </mruList>
 </workbench>
