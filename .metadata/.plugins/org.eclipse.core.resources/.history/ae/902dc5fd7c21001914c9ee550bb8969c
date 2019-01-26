@@ -24,9 +24,5 @@ public class Student extends Person{
 	public void setSchool(String school) {
 		this.school = school;
 	}
-	@Override
-	public void talk() {
-		System.out.println("我是学生");
-	}
 	
 }
