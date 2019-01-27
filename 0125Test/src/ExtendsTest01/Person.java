@@ -4,6 +4,12 @@ public class Person {
 	private String name;
 	private int age;
 	private boolean sex;
+	static{
+		System.out.println("static run");
+	}
+	{
+		System.out.println("person go");
+	}
 	public Person(){
 		System.out.println("no var");
 	}

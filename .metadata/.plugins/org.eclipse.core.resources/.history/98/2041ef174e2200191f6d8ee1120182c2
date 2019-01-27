@@ -1,0 +1,7 @@
+package Polymorphism;
+
+public class Cat extends Animal{
+	public void move(){
+		System.out.println("Ã¨ÔÚÅÀ");
+	}
+}

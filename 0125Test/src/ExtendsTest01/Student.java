@@ -3,6 +3,12 @@ package ExtendsTest01;
 public class Student extends Person{
 	private String grade;
 	private String school;
+	static{
+		System.out.println("student static run");
+	}
+	{
+		System.out.println("student go");
+	}
 	public Student(){
 		this("一年级","二十五小");
 		System.out.println("s run");
