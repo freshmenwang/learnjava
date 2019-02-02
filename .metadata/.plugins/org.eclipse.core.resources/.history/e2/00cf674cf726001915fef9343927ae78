@@ -1,0 +1,16 @@
+package singletontest;
+/**
+ * ¶öººÊ½µ¥Àý
+*/
+public class Singleton {
+	static Singleton s = new Singleton();
+	private Singleton(){
+	}
+	public static Singleton getSingleton(){
+		return s;
+	}
+	public void run(){
+		System.out.println();
+	}
+	
+}

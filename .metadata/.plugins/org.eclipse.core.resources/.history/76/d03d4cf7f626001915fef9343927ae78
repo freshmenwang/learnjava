@@ -1,0 +1,8 @@
+package singletontest;
+
+public class Singleton {
+	static Singleton s = new Singleton();
+	private Singleton(){
+	}
+	
+}

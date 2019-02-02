@@ -1,0 +1,5 @@
+package singletontest;
+
+public class Singleton01 {
+	static Singleton01 s = null;
+}
