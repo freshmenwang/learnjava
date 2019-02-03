@@ -14,7 +14,6 @@ public class ExtendsTest01{
 		s.talk();
 		Student.play();
 		Student s1 = new Student();
-		
 	}
 
 }

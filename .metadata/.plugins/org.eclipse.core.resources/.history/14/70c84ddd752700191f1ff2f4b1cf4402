@@ -35,7 +35,7 @@ public class Student extends Person{
 		System.out.println("我是学生");
 	}
 	public static void play(){
-		System.out.println("playing");
+		
 	}
 	
 }

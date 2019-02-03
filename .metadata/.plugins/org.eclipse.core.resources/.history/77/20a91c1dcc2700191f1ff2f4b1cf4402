@@ -13,8 +13,6 @@ public class ExtendsTest01{
 		System.out.println(s.getAge()+n.getSchool()+n.getGrade());
 		s.talk();
 		Student.play();
-		Student s1 = new Student();
-		
 	}
 
 }

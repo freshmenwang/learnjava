@@ -40,6 +40,9 @@ public class Person {
 	public void talk(){
 		System.out.println("Œ“ «»À");
 	}
+	public static void play(){
+		System.out.println("come on");
+	}
 	
 
 }
