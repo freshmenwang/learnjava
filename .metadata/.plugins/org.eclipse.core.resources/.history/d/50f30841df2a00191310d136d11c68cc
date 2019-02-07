@@ -1,0 +1,5 @@
+package AbstractAndInteface;
+
+public interface Fruit {
+	public abstract void eat();
+}

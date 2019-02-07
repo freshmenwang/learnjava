@@ -1,0 +1,6 @@
+package AbstractAndInteface;
+
+public abstract class Person {
+	
+	public abstract void talk();
+}

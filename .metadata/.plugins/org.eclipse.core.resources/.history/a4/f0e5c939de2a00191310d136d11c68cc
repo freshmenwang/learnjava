@@ -1,0 +1,10 @@
+package AbstractAndInteface;
+
+public class Zhao extends Chinese {
+	public Zhao(){
+		
+	}
+	public void talk(){
+		System.out.println("ฤ๚บร");
+	}
+}

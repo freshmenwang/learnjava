@@ -1,0 +1,8 @@
+package AbstractAndInteface;
+
+public abstract class Person {
+	public abstract void talk();
+	public void run(){
+		System.out.println("running");
+	}
+}
