@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=0207Test/src&lt;AbstractAndInteface{Person.java[Person" modifiers="1025" timestamp="1549546320113"/>
+<typeInfo handle="=0207Test/src&lt;AbstractAndInteface{Chinese.java[Chinese" modifiers="1025" timestamp="1549546729030"/>
+<typeInfo handle="=0207Test/src&lt;AbstractAndInteface{Color.java[Color" modifiers="513" timestamp="1549547510390"/>
+<typeInfo handle="=0207Test/src&lt;AbstractAndInteface{Fruit.java[Fruit" modifiers="513" timestamp="1549547407680"/>
+</typeInfoHistroy>

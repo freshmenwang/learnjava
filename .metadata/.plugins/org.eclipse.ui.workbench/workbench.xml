@@ -40,21 +40,41 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Singleton.java" partName="Singleton.java" path="D:/learnjava/learnjava/0202Test/src/singletontest/Singleton.java" title="Singleton.java" tooltip="0202Test/src/singletontest/Singleton.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0202Test/src/singletontest/Singleton.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="70" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Person.java" partName="Person.java" path="D:/learnjava/learnjava/0207Test/src/AbstractAndInteface/Person.java" title="Person.java" tooltip="0207Test/src/AbstractAndInteface/Person.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0207Test/src/AbstractAndInteface/Person.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="310" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingletonTest.java" partName="SingletonTest.java" path="D:/learnjava/learnjava/0202Test/src/singletontest/SingletonTest.java" title="SingletonTest.java" tooltip="0202Test/src/singletontest/SingletonTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0202Test/src/singletontest/SingletonTest.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="196" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Chinese.java" partName="Chinese.java" path="D:/learnjava/learnjava/0207Test/src/AbstractAndInteface/Chinese.java" title="Chinese.java" tooltip="0207Test/src/AbstractAndInteface/Chinese.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0207Test/src/AbstractAndInteface/Chinese.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="194" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Singleton01.java" partName="Singleton01.java" path="D:/learnjava/learnjava/0202Test/src/singletontest/Singleton01.java" title="Singleton01.java" tooltip="0202Test/src/singletontest/Singleton01.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0202Test/src/singletontest/Singleton01.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="36" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Zhao.java" partName="Zhao.java" path="D:/learnjava/learnjava/0207Test/src/AbstractAndInteface/Zhao.java" title="Zhao.java" tooltip="0207Test/src/AbstractAndInteface/Zhao.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0207Test/src/AbstractAndInteface/Zhao.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="119" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test01.java" partName="Test01.java" path="D:/learnjava/learnjava/0207Test/src/AbstractAndInteface/Test01.java" title="Test01.java" tooltip="0207Test/src/AbstractAndInteface/Test01.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0207Test/src/AbstractAndInteface/Test01.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="232" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Fruit.java" partName="Fruit.java" path="D:/learnjava/learnjava/0207Test/src/AbstractAndInteface/Fruit.java" title="Fruit.java" tooltip="0207Test/src/AbstractAndInteface/Fruit.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0207Test/src/AbstractAndInteface/Fruit.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="103" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Color.java" partName="Color.java" path="D:/learnjava/learnjava/0207Test/src/AbstractAndInteface/Color.java" title="Color.java" tooltip="0207Test/src/AbstractAndInteface/Color.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0207Test/src/AbstractAndInteface/Color.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="71" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Apple.java" partName="Apple.java" path="D:/learnjava/learnjava/0207Test/src/AbstractAndInteface/Apple.java" title="Apple.java" tooltip="0207Test/src/AbstractAndInteface/Apple.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/0207Test/src/AbstractAndInteface/Apple.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="287" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -91,7 +111,9 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>&#x0A;<category IMemento.internal.id="Warnings"/>
+<expanded>
+<category IMemento.internal.id="Errors (1 item)"/>
+<category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -625,165 +647,171 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/Singleton.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/SingletonTest.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/Singleton01.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0125Test/src/ExtendsTest01/Student.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0125Test/src/ExtendsTest01/Person.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0125Test/src/ExtendsTest01/ExtendsTest01.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/20190122Test/src/ThisTest01/ThisTest.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/Singleton.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/SingletonTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/Singleton.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/Singleton01.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0207Test/src/AbstractAndInteface/Person.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0207Test/src/AbstractAndInteface/Chinese.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0207Test/src/AbstractAndInteface/Zhao.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0207Test/src/AbstractAndInteface/Test01.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0207Test/src/AbstractAndInteface/Fruit.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0207Test/src/AbstractAndInteface/Color.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0207Test/src/AbstractAndInteface/Apple.java"/>
 </editors>
-<item historyLabel="Singleton01.java" index="2">
-<position info="not_deleted" x="130" y="0"/>
-</item>
-<item historyLabel="Singleton01.java" index="2">
-<position info="not_deleted" x="180" y="0"/>
-</item>
-<item historyLabel="Singleton01.java" index="2">
-<position info="not_deleted" x="198" y="0"/>
-</item>
-<item historyLabel="Singleton01.java" index="2">
-<position info="not_deleted" x="245" y="0"/>
-</item>
-<item historyLabel="SingletonTest.java" index="1">
-<position info="not_deleted" x="464" y="0"/>
-</item>
-<item historyLabel="Singleton.java" index="0">
-<position info="not_deleted" x="78" y="0"/>
-</item>
-<item historyLabel="Singleton01.java" index="2">
-<position info="not_deleted" x="79" y="0"/>
-</item>
-<item historyLabel="SingletonTest.java" index="1">
-<position info="not_deleted" x="464" y="0"/>
-</item>
-<item historyLabel="SingletonTest.java" index="1">
-<position info="not_deleted" x="462" y="0"/>
-</item>
-<item historyLabel="Singleton01.java" index="2">
-<position info="not_deleted" x="79" y="0"/>
-</item>
-<item historyLabel="Singleton.java" index="0">
-<position info="not_deleted" x="78" y="0"/>
-</item>
-<item historyLabel="Singleton01.java" index="2">
-<position info="not_deleted" x="36" y="0"/>
-</item>
-<item historyLabel="Singleton.java" index="0">
-<position info="not_deleted" x="78" y="0"/>
-</item>
-<item historyLabel="Singleton01.java" index="2">
-<position info="not_deleted" x="36" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Person.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Person.java" index="4">
-<position info="not_deleted" x="779" y="0"/>
-</item>
-<item historyLabel="Person.java" index="4">
+<item historyLabel="Person.java" index="2">
 <position info="not_deleted" x="812" y="0"/>
 </item>
-<item historyLabel="ExtendsTest01.java" index="5">
+<item historyLabel="ExtendsTest01.java" index="3">
 <position info="not_deleted" x="383" y="0"/>
 </item>
-<item historyLabel="Person.java" index="4">
-<position info="not_deleted" x="812" y="0"/>
-</item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="383" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="733" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
+<item historyLabel="Student.java" index="1">
 <position info="not_deleted" x="766" y="0"/>
 </item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="394" y="0"/>
-</item>
-<item historyLabel="ThisTest.java" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="394" y="0"/>
-</item>
-<item historyLabel="Person.java" index="4">
-<position info="not_deleted" x="812" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="766" y="0"/>
-</item>
-<item historyLabel="Person.java" index="4">
-<position info="not_deleted" x="812" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="766" y="0"/>
-</item>
-<item historyLabel="Person.java" index="4">
-<position info="not_deleted" x="812" y="0"/>
-</item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="394" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="766" y="0"/>
-</item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="394" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="766" y="0"/>
-</item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="394" y="0"/>
-</item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="383" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="766" y="0"/>
-</item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="383" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="766" y="0"/>
-</item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="383" y="0"/>
-</item>
-<item historyLabel="Person.java" index="4">
-<position info="not_deleted" x="812" y="0"/>
-</item>
-<item historyLabel="ExtendsTest01.java" index="5">
-<position info="not_deleted" x="383" y="0"/>
-</item>
-<item historyLabel="Student.java" index="3">
-<position info="not_deleted" x="766" y="0"/>
-</item>
-<item historyLabel="Singleton.java" index="7">
+<item historyLabel="Singleton.java" index="4">
 <position info="not_deleted" x="70" y="0"/>
 </item>
-<item historyLabel="Singleton01.java" index="2">
+<item historyLabel="Singleton01.java" index="0">
 <position info="not_deleted" x="36" y="0"/>
 </item>
-<item historyLabel="SingletonTest.java" index="8">
+<item historyLabel="SingletonTest.java" index="5">
 <position info="not_deleted" x="449" y="0"/>
 </item>
-<item historyLabel="Singleton.java" index="7">
+<item historyLabel="Singleton.java" index="4">
 <position info="not_deleted" x="70" y="0"/>
 </item>
-<item active="true" historyLabel="SingletonTest.java" index="8">
-<position info="not_deleted" x="449" y="0"/>
+<item historyLabel="SingletonTest.java" index="5">
+<position info="not_deleted" x="196" y="0"/>
+</item>
+<item historyLabel="Singleton.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Singleton01.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="310" y="0"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="113" y="6"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="139" y="0"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="172" y="0"/>
+</item>
+<item historyLabel="Chinese.java" index="9">
+<position info="not_deleted" x="194" y="0"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="310" y="0"/>
+</item>
+<item historyLabel="Chinese.java" index="9">
+<position info="not_deleted" x="194" y="0"/>
+</item>
+<item historyLabel="Chinese.java" index="9">
+<position info="not_deleted" x="101" y="0"/>
+</item>
+<item historyLabel="Chinese.java" index="9">
+<position info="not_deleted" x="194" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="145" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="174" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="82" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="112" y="0"/>
+</item>
+<item historyLabel="Chinese.java" index="9">
+<position info="not_deleted" x="194" y="0"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="310" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="119" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="86" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="119" y="0"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="310" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="119" y="0"/>
+</item>
+<item historyLabel="Zhao.java" index="10">
+<position info="not_deleted" x="119" y="0"/>
+</item>
+<item historyLabel="Test01.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Test01.java" index="11">
+<position info="not_deleted" x="165" y="0"/>
+</item>
+<item historyLabel="Fruit.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Fruit.java" index="12">
+<position info="not_deleted" x="103" y="0"/>
+</item>
+<item historyLabel="Chinese.java" index="9">
+<position info="not_deleted" x="194" y="0"/>
+</item>
+<item historyLabel="Person.java" index="8">
+<position info="not_deleted" x="310" y="0"/>
+</item>
+<item historyLabel="Fruit.java" index="12">
+<position info="not_deleted" x="103" y="0"/>
+</item>
+<item historyLabel="Fruit.java" index="12">
+<position info="not_deleted" x="102" y="0"/>
+</item>
+<item historyLabel="Color.java" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Color.java" index="13">
+<position info="not_deleted" x="71" y="0"/>
+</item>
+<item historyLabel="Apple.java" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Apple.java" index="14">
+<position info="not_deleted" x="287" y="0"/>
+</item>
+<item historyLabel="Test01.java" index="11">
+<position info="not_deleted" x="165" y="0"/>
+</item>
+<item historyLabel="Test01.java" index="11">
+<position info="not_deleted" x="232" y="0"/>
+</item>
+<item historyLabel="Fruit.java" index="12">
+<position info="not_deleted" x="102" y="0"/>
+</item>
+<item active="true" historyLabel="Fruit.java" index="12">
+<position info="not_deleted" x="103" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -802,6 +830,27 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Apple.java" tooltip="0207Test/src/AbstractAndInteface/Apple.java">
+<persistable path="/0207Test/src/AbstractAndInteface/Apple.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Color.java" tooltip="0207Test/src/AbstractAndInteface/Color.java">
+<persistable path="/0207Test/src/AbstractAndInteface/Color.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Fruit.java" tooltip="0207Test/src/AbstractAndInteface/Fruit.java">
+<persistable path="/0207Test/src/AbstractAndInteface/Fruit.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test01.java" tooltip="0207Test/src/AbstractAndInteface/Test01.java">
+<persistable path="/0207Test/src/AbstractAndInteface/Test01.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Zhao.java" tooltip="0207Test/src/AbstractAndInteface/Zhao.java">
+<persistable path="/0207Test/src/AbstractAndInteface/Zhao.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Chinese.java" tooltip="0207Test/src/AbstractAndInteface/Chinese.java">
+<persistable path="/0207Test/src/AbstractAndInteface/Chinese.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Person.java" tooltip="0207Test/src/AbstractAndInteface/Person.java">
+<persistable path="/0207Test/src/AbstractAndInteface/Person.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ThisTest.java" tooltip="20190122Test/src/ThisTest01/ThisTest.java">
 <persistable path="/20190122Test/src/ThisTest01/ThisTest.java"/>
 </file>
@@ -825,24 +874,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bird.java" tooltip="0127/src/Polymorphism/Bird.java">
 <persistable path="/0127/src/Polymorphism/Bird.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test01.java" tooltip="0127/src/Polymorphism/Test01.java">
-<persistable path="/0127/src/Polymorphism/Test01.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Cat.java" tooltip="0127/src/Polymorphism/Cat.java">
-<persistable path="/0127/src/Polymorphism/Cat.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Animal.java" tooltip="0127/src/Polymorphism/Animal.java">
-<persistable path="/0127/src/Polymorphism/Animal.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StaticTest01.java" tooltip="0125Test/src/StaticTest01/StaticTest01.java">
-<persistable path="/0125Test/src/StaticTest01/StaticTest01.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConstructorTest.java" tooltip="JavaTest/src/JavaTest20190120/ConstructorTest.java">
-<persistable path="/JavaTest/src/JavaTest20190120/ConstructorTest.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Constructor.java" tooltip="JavaTest/src/JavaTest20190120/Constructor.java">
-<persistable path="/JavaTest/src/JavaTest20190120/Constructor.java"/>
 </file>
 </mruList>
 </workbench>
