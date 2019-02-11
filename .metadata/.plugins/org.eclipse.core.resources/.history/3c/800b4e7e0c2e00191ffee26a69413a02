@@ -1,0 +1,25 @@
+package StaticInner;
+
+public class Outer {
+	
+	private static String s = "abc" ;
+	
+	private static void m1(){
+		System.out.println("outer m1 running");
+	}
+	private void m2(){
+		System.out.println("outer m2 running");
+	}
+	/**
+	 * @param args
+	 */
+	static class Inner{
+		
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
