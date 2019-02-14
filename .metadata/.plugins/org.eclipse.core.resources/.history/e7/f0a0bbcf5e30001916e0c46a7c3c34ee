@@ -1,0 +1,16 @@
+package ChengyuanInner;
+
+public class Outer {
+
+	/**
+	 * @param args
+	 */
+	private static void m1(){
+		System.out.println("m1 running");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package NimingInner;
+
+public class Outer {
+
+	/**
+	 * @param args
+	 */
+	public void m1(CustomerService c){
+		c.logout();
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

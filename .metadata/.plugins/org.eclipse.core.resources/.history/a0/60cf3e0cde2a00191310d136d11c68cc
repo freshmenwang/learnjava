@@ -1,5 +1,0 @@
-package AbstractAndInteface;
-
-public class Zhao extends Chinese {
-	
-}
