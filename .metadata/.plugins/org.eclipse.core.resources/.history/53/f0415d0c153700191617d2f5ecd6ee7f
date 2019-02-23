@@ -1,0 +1,18 @@
+package ThrowsTest;
+
+import java.io.FileInputStream;
+
+public class ThrowsTest01 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public static void m1() throws FileNotFoundException{
+		new FileInputStream("d:/java/1.txt");
+	}
+
+}

@@ -1,0 +1,26 @@
+package TryCatchTest;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+public class TryCatchTest01 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		FileInputStream f;
+		try {
+			f = new FileInputStream("D:/java/1.txt");
+			f.read();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			System.out.println("file not found");
+		} catch (IOException e){
+			System.out.println("ioexception");
+		}
+	}
+
+}

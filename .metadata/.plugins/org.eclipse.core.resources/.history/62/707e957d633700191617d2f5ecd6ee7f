@@ -1,0 +1,19 @@
+package TryCatchTest;
+
+import java.io.FileInputStream;
+
+public class FinallyTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try{
+			FileInputStream f = new FileInputStream("123.txt");
+		}finally{
+			System.out.println("finally run");
+		}
+	}
+
+}
