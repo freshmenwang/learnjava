@@ -17,14 +17,16 @@ public class StackTest {
 			System.out.println("stack was full");
 			return;
 		}
-		this.array[cord++] = num;
+		this.array[cord] = num;
+		this.cord = this.cord +1;
 	}
 	public void out(){
 		if(cord == 0){
 			System.out.println("stack was null");
 			return;
 		}
-		this.array[--cord] = 0;
+		this.array[cord] = 0;
+		this.cord = this.cord -1;
 	}
 	public void show(){
 		for(int i = 0;i < length;i++){
