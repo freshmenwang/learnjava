@@ -1,0 +1,12 @@
+package StackTest;
+
+public class StackTest {
+
+	/**
+	 * @param args
+	 */
+	private int length;
+	private int[] array;
+	public 
+
+}

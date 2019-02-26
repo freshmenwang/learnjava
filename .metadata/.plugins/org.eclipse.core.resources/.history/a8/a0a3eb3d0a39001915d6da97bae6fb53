@@ -1,0 +1,24 @@
+package HotelText;
+
+import java.util.Scanner;
+
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner s = new Scanner(System.in);
+		System.out.println("初始化酒店，默认输入1，自定义输入2");
+		int t = s.nextInt();
+		Hotel h;
+		if(t == 1){
+			h = new Hotel();
+		}else{
+			System.out.println("请输入酒店层数");
+			int rows = s.nextInt();
+		}
+	}
+
+}

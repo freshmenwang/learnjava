@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="32" version="2.0">
+<workbench progressCount="29" version="2.0">
 <workbenchAdvisor/>
 <window height="728" maximized="true" width="1024" x="137" y="17">
 <fastViewData fastViewLocation="1024"/>
@@ -44,38 +44,33 @@
 <part id="3"/>
 <part id="4"/>
 <part id="5"/>
-<part id="6"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ThrowsTest01.java" partName="ThrowsTest01.java" path="D:/learnjava/learnjava/ExceptionTest/src/ThrowsTest/ThrowsTest01.java" title="ThrowsTest01.java" tooltip="ExceptionTest/src/ThrowsTest/ThrowsTest01.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ExceptionTest/src/ThrowsTest/ThrowsTest01.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="245" selectionTopPixel="24"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayCopyTest.java" partName="ArrayCopyTest.java" path="D:/learnjava/learnjava/ArrayTest/src/ArrayCopy/ArrayCopyTest.java" title="ArrayCopyTest.java" tooltip="ArrayTest/src/ArrayCopy/ArrayCopyTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ArrayTest/src/ArrayCopy/ArrayCopyTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="15" selectionOffset="506" selectionTopPixel="58"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TryCatchTest01.java" partName="TryCatchTest01.java" path="D:/learnjava/learnjava/ExceptionTest/src/TryCatchTest/TryCatchTest01.java" title="TryCatchTest01.java" tooltip="ExceptionTest/src/TryCatchTest/TryCatchTest01.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ExceptionTest/src/TryCatchTest/TryCatchTest01.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="438" selectionTopPixel="75"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StackTest.java" partName="StackTest.java" path="D:/learnjava/learnjava/ArrayTest/src/StackTest/StackTest.java" title="StackTest.java" tooltip="ArrayTest/src/StackTest/StackTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ArrayTest/src/StackTest/StackTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="553" selectionTopPixel="194"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FinallyTest.java" partName="FinallyTest.java" path="D:/learnjava/learnjava/ExceptionTest/src/TryCatchTest/FinallyTest.java" title="FinallyTest.java" tooltip="ExceptionTest/src/TryCatchTest/FinallyTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ExceptionTest/src/TryCatchTest/FinallyTest.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="292" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/ArrayTest/src/StackTest/Test.java" title="Test.java" tooltip="ArrayTest/src/StackTest/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ArrayTest/src/StackTest/Test.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="277" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FinallyTest01.java" partName="FinallyTest01.java" path="D:/learnjava/learnjava/ExceptionTest/src/TryCatchTest/FinallyTest01.java" title="FinallyTest01.java" tooltip="ExceptionTest/src/TryCatchTest/FinallyTest01.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ExceptionTest/src/TryCatchTest/FinallyTest01.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="628" selectionTopPixel="279"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Room.java" partName="Room.java" path="D:/learnjava/learnjava/ArrayTest/src/HotelText/Room.java" title="Room.java" tooltip="ArrayTest/src/HotelText/Room.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ArrayTest/src/HotelText/Room.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="86" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IllegalNameException.java" partName="IllegalNameException.java" path="D:/learnjava/learnjava/ExceptionTest/src/CustomException/IllegalNameException.java" title="IllegalNameException.java" tooltip="ExceptionTest/src/CustomException/IllegalNameException.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ExceptionTest/src/CustomException/IllegalNameException.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="292" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Hotel.java" partName="Hotel.java" path="D:/learnjava/learnjava/ArrayTest/src/HotelText/Hotel.java" title="Hotel.java" tooltip="ArrayTest/src/HotelText/Hotel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ArrayTest/src/HotelText/Hotel.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1783" selectionTopPixel="789"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CustomerService.java" partName="CustomerService.java" path="D:/learnjava/learnjava/ExceptionTest/src/CustomException/CustomerService.java" title="CustomerService.java" tooltip="ExceptionTest/src/CustomException/CustomerService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ExceptionTest/src/CustomException/CustomerService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="250" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/ExceptionTest/src/CustomException/Test.java" title="Test.java" tooltip="ExceptionTest/src/CustomException/Test.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ExceptionTest/src/CustomException/Test.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="351" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/ArrayTest/src/HotelText/Test.java" title="Test.java" tooltip="ArrayTest/src/HotelText/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ArrayTest/src/HotelText/Test.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="836" selectionTopPixel="245"/>
 </editor>
 </editors>
 <views>
@@ -113,7 +108,6 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings"/>
 <category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
@@ -648,162 +642,158 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ExceptionTest/src/TryCatchTest/TryCatchTest01.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ExceptionTest/src/TryCatchTest/FinallyTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ExceptionTest/src/TryCatchTest/FinallyTest01.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ExceptionTest/src/CustomException/IllegalNameException.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ExceptionTest/src/CustomException/CustomerService.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ExceptionTest/src/CustomException/Test.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ArrayTest/src/HotelText/Hotel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ArrayTest/src/HotelText/Test.java"/>
 </editors>
-<item historyLabel="TryCatchTest01.java" index="0">
-<position info="not_deleted" x="231" y="0"/>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="297" y="0"/>
 </item>
-<item historyLabel="TryCatchTest01.java" index="0">
-<position info="not_deleted" x="447" y="0"/>
-</item>
-<item historyLabel="TryCatchTest01.java" index="0">
-<position info="not_deleted" x="577" y="0"/>
-</item>
-<item historyLabel="TryCatchTest01.java" index="0">
-<position info="not_deleted" x="523" y="11"/>
-</item>
-<item historyLabel="TryCatchTest01.java" index="0">
-<position info="not_deleted" x="508" y="0"/>
-</item>
-<item historyLabel="TryCatchTest01.java" index="0">
-<position info="not_deleted" x="575" y="0"/>
-</item>
-<item historyLabel="TryCatchTest01.java" index="0">
-<position info="not_deleted" x="438" y="0"/>
-</item>
-<item historyLabel="FinallyTest.java" index="1">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="FinallyTest.java" index="1">
-<position info="not_deleted" x="348" y="0"/>
-</item>
-<item historyLabel="FinallyTest.java" index="1">
-<position info="not_deleted" x="407" y="0"/>
-</item>
-<item historyLabel="FinallyTest.java" index="1">
-<position info="not_deleted" x="299" y="15"/>
-</item>
-<item historyLabel="FinallyTest.java" index="1">
-<position info="not_deleted" x="311" y="0"/>
-</item>
-<item historyLabel="FinallyTest.java" index="1">
-<position info="not_deleted" x="319" y="30"/>
-</item>
-<item historyLabel="FinallyTest.java" index="1">
-<position info="not_deleted" x="205" y="21"/>
-</item>
-<item historyLabel="FinallyTest.java" index="1">
-<position info="not_deleted" x="292" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="661" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="813" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="200" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="307" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="395" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="314" y="15"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="393" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="429" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="456" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="406" y="21"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="454" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="456" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="406" y="21"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="628" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="628" y="0"/>
-</item>
-<item historyLabel="FinallyTest01.java" index="2">
-<position info="not_deleted" x="628" y="0"/>
-</item>
-<item historyLabel="IllegalNameException.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="IllegalNameException.java" index="3">
+<item historyLabel="Hotel.java" index="0">
 <position/>
 </item>
-<item historyLabel="IllegalNameException.java" index="3">
-<position/>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="909" y="0"/>
 </item>
-<item historyLabel="IllegalNameException.java" index="3">
-<position/>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1015" y="0"/>
 </item>
-<item historyLabel="IllegalNameException.java" index="3">
-<position info="not_deleted" x="292" y="0"/>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1072" y="0"/>
 </item>
-<item historyLabel="CustomerService.java" index="4">
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1072" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1022" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1025" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1043" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1055" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1058" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1088" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1091" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1167" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1159" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1162" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1265" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1547" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1547" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1457" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="CustomerService.java" index="4">
-<position info="not_deleted" x="125" y="0"/>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="219" y="0"/>
 </item>
-<item historyLabel="CustomerService.java" index="4">
-<position info="not_deleted" x="183" y="0"/>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="847" y="0"/>
 </item>
-<item historyLabel="CustomerService.java" index="4">
-<position info="not_deleted" x="229" y="0"/>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="186" y="7"/>
 </item>
-<item historyLabel="CustomerService.java" index="4">
-<position info="not_deleted" x="250" y="0"/>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="264" y="0"/>
 </item>
-<item historyLabel="Test.java" index="5">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="315" y="0"/>
 </item>
-<item historyLabel="Test.java" index="5">
-<position info="not_deleted" x="232" y="0"/>
-</item>
-<item historyLabel="Test.java" index="5">
-<position info="not_deleted" x="271" y="0"/>
-</item>
-<item historyLabel="Test.java" index="5">
-<position info="not_deleted" x="236" y="0"/>
-</item>
-<item historyLabel="Test.java" index="5">
-<position info="not_deleted" x="238" y="7"/>
-</item>
-<item historyLabel="Test.java" index="5">
-<position info="not_deleted" x="275" y="0"/>
-</item>
-<item historyLabel="Test.java" index="5">
-<position info="not_deleted" x="475" y="0"/>
-</item>
-<item active="true" historyLabel="Test.java" index="5">
+<item historyLabel="Test.java" index="1">
 <position info="not_deleted" x="336" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="381" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="494" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="582" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="524" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="655" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="702" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="725" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="763" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="791" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1457" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1571" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1686" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1690" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1749" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1709" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1712" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1749" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1732" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1735" y="0"/>
+</item>
+<item historyLabel="Hotel.java" index="0">
+<position info="not_deleted" x="1783" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="810" y="0"/>
+</item>
+<item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="724" y="0"/>
+</item>
+<item active="true" historyLabel="Test.java" index="1">
+<position/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -822,6 +812,27 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="ArrayTest/src/HotelText/Test.java">
+<persistable path="/ArrayTest/src/HotelText/Test.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Hotel.java" tooltip="ArrayTest/src/HotelText/Hotel.java">
+<persistable path="/ArrayTest/src/HotelText/Hotel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Room.java" tooltip="ArrayTest/src/HotelText/Room.java">
+<persistable path="/ArrayTest/src/HotelText/Room.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="ArrayTest/src/StackTest/Test.java">
+<persistable path="/ArrayTest/src/StackTest/Test.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StackTest.java" tooltip="ArrayTest/src/StackTest/StackTest.java">
+<persistable path="/ArrayTest/src/StackTest/StackTest.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="System.class" tooltip="java.lang.System">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=ArrayTest/C:\/Users\/Administrator\/AppData\/Local\/Genuitec\/Common\/binary\/com.sun.java.jdk.win32.x86_1.6.0.013\/jre\/lib\/rt.jar&lt;java.lang(System.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayCopyTest.java" tooltip="ArrayTest/src/ArrayCopy/ArrayCopyTest.java">
+<persistable path="/ArrayTest/src/ArrayCopy/ArrayCopyTest.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="ExceptionTest/src/CustomException/Test.java">
 <persistable path="/ExceptionTest/src/CustomException/Test.java"/>
 </file>
@@ -845,27 +856,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CustomerService.java" tooltip="InnerClass/src/NimingInner/CustomerService.java">
 <persistable path="/InnerClass/src/NimingInner/CustomerService.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Outer.java" tooltip="InnerClass/src/NimingInner/Outer.java">
-<persistable path="/InnerClass/src/NimingInner/Outer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Outer.java" tooltip="InnerClass/src/JubuInner/Outer.java">
-<persistable path="/InnerClass/src/JubuInner/Outer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Outer.java" tooltip="InnerClass/src/ChengyuanInner/Outer.java">
-<persistable path="/InnerClass/src/ChengyuanInner/Outer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Outer.java" tooltip="InnerClass/src/StaticInner/Outer.java">
-<persistable path="/InnerClass/src/StaticInner/Outer.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Thread.class" tooltip="java.lang.Thread">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=ObjectTest/C:\/Users\/Administrator\/AppData\/Local\/Genuitec\/Common\/binary\/com.sun.java.jdk.win32.x86_1.6.0.013\/jre\/lib\/rt.jar&lt;java.lang(Thread.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="PrintStream.class" tooltip="java.io.PrintStream">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=ObjectTest/C:\/Users\/Administrator\/AppData\/Local\/Genuitec\/Common\/binary\/com.sun.java.jdk.win32.x86_1.6.0.013\/jre\/lib\/rt.jar&lt;java.io(PrintStream.class"/>
-</file>
-<file factoryID="com.genuitec.javascript.debug.ui.editor.ajaxmemento" id="com.genuitec.javascript.debug.ui.editor.AJAXBrowserEditor" name="file:///D:/learnjava/learnjava/ObjectTest/src/FinalizeTest/Test01.java" tooltip="file:///D:/learnjava/learnjava/ObjectTest/src/FinalizeTest/Test01.java">
-<persistable url="file:///D:/learnjava/learnjava/ObjectTest/src/FinalizeTest/Test01.java"/>
 </file>
 </mruList>
 </workbench>

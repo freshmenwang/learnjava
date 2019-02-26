@@ -1,0 +1,18 @@
+package ArrayCopy;
+
+public class ArrayCopyTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] a1 = {2 , 3 , 4 , 5};
+		int[] a2 = {12 , 13 , 15 , 15 , 12 ,18 , 19};
+		System.arraycopy(a1, 1, a2, 2, 3);
+		for(int i =0 ; i < a2.length ; i++){
+			
+		}
+	}
+
+}

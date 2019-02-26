@@ -1,0 +1,14 @@
+package StackTest;
+
+public class StackTest {
+
+	/**
+	 * @param args
+	 */
+	private int length;
+	private int[] array;
+	public StackTest(int length){
+		this.length = length;
+	}
+
+}

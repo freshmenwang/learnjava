@@ -1,0 +1,39 @@
+package HotelText;
+
+public class Hotel {
+	Room[][] rooms;
+	public Hotel(){
+		rooms = new Room[5][10];
+		for(int i = 0;i < rooms.length;i++){
+			for(int j = 0;j < rooms[i].length;j++){
+				rooms[i][j] = new Room();
+				if(i < 2){
+					rooms[i][j].type = "标准间";
+				}else if(i < 4){
+					rooms[i][j].type = "双人间";
+				}else{
+					rooms[i][j].type = "豪华间";
+				}
+				rooms[i][j].num = (i+1)+"0"+(j+1);
+				rooms[i][j].full = true;
+			}
+		}
+	}
+	public Hotel(int rows , int cols){
+		rooms = new Room[rows][cols];
+		for(int i = 0;i < rooms.length;i++){
+			for(int j = 0;j < rooms[i].length;j++){
+				rooms[i][j] = new Room();
+				if(i < 2){
+					rooms[i][j].type = "标准间";
+				}else if(i < 4){
+					rooms[i][j].type = "双人间";
+				}else{
+					rooms[i][j].type = "豪华间";
+				}
+				rooms[i][j].num = (i+1)+"0"+(j+1);
+				rooms[i][j].full = true;
+			}
+		}
+	}
+}
