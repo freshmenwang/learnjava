@@ -1,0 +1,16 @@
+package OftenUse;
+
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char a = "wang".charAt(1);
+		System.out.println(a);
+		System.out.println("wangjiazhao".endsWith("zhao"));
+		System.out.println("abc".equalsIgnoreCase("ABC"));
+	}
+
+}
