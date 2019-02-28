@@ -25,6 +25,19 @@ public class Test {
 		for(int i = 0; i < s.length; i++){
 			System.out.println(s[i]);
 		}
+		System.out.println("ancst".startsWith("an"));
+		System.out.println("abcde".substring(1));
+		System.out.println("12345".substring(1,3));
+		char[] c = "abcdefg".toCharArray();
+		for(int i = 0; i < c.length; i++){
+			System.out.println(c[i]);
+		}
+		System.out.println("abc".toUpperCase());
+		System.out.println("ABC".toLowerCase());
+		System.out.println("    abc efg    ".trim()+"abc");
+		Object o = null;
+		System.out.println(o);
+		
 	}
 
 }
