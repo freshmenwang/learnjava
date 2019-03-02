@@ -1,7 +1,0 @@
-package CustomException;
-
-public class IllegalNameException extends Exception {
-	public IllegalNameEception(){
-		super();
-	}
-}

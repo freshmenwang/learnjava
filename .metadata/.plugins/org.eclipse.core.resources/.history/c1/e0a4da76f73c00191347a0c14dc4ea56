@@ -1,0 +1,15 @@
+package AddressTest;
+
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Integer i = new Integer(12);
+		Integer i1 = new Integer(12);
+		System.out.println(i == i1);
+	}
+
+}

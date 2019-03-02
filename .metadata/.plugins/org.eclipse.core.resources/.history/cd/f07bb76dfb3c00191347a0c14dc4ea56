@@ -1,0 +1,18 @@
+package DateTest;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class Test01 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Date now = new Date();
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyyÄêMMÔÂddÈÕ");
+		System.out.println(sdf.format(now));
+	}
+
+}

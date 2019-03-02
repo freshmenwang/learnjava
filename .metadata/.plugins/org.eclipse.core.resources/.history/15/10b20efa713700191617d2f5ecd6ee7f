@@ -1,8 +1,0 @@
-package CustomException;
-
-public class CustomerService {
-	private  String username;
-	public void regsiter(String username){
-		this.username = username ;
-	}
-}
