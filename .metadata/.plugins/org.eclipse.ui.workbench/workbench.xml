@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="32" version="2.0">
+<workbench progressCount="37" version="2.0">
 <workbenchAdvisor/>
 <window height="728" maximized="true" width="683" x="683" y="0">
 <fastViewData fastViewLocation="1024"/>
@@ -46,11 +46,11 @@
 </editorArea>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test01.java" partName="Test01.java" path="D:/learnjava/learnjava/TimeTest/src/CurrentTimeTest/Test01.java" title="Test01.java" tooltip="TimeTest/src/CurrentTimeTest/Test01.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TimeTest/src/CurrentTimeTest/Test01.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="237" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="239" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test01.java" partName="Test01.java" path="D:/learnjava/learnjava/TimeTest/src/DateTest/Test01.java" title="Test01.java" tooltip="TimeTest/src/DateTest/Test01.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TimeTest/src/DateTest/Test01.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="637" selectionTopPixel="15"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/StringTest/src/OftenUse/Test.java" title="Test.java" tooltip="StringTest/src/OftenUse/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/StringTest/src/OftenUse/Test.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1407" selectionTopPixel="304"/>
 </editor>
 </editors>
 <views>
@@ -88,7 +88,7 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Errors (1 item)"/>
+<category IMemento.internal.id="Warnings"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -629,37 +629,10 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegerTest/src/AddressTest/Test.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TimeTest/src/CurrentTimeTest/Test01.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TimeTest/src/DateTest/Test01.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/StringTest/src/OftenUse/Test.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/StringTest/src/StringAddress/StringAddressTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TimeTest/src/CurrentTimeTest/Test01.java"/>
 </editors>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="835" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="865" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="864" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="902" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="989" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="1010" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="1022" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="1318" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="1167" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="1197" y="0"/>
-</item>
 <item historyLabel="Test.java" index="0">
 <position info="not_deleted" x="1210" y="0"/>
 </item>
@@ -777,8 +750,38 @@
 <item historyLabel="Test01.java" index="7">
 <position info="not_deleted" x="237" y="0"/>
 </item>
-<item active="true" historyLabel="Test01.java" index="8">
+<item historyLabel="Test01.java" index="8">
 <position info="not_deleted" x="637" y="0"/>
+</item>
+<item historyLabel="Test.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Test01.java" index="8">
+<position info="not_deleted" x="637" y="0"/>
+</item>
+<item historyLabel="StringAddressTest.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Test01.java" index="8">
+<position info="not_deleted" x="637" y="0"/>
+</item>
+<item historyLabel="Test01.java" index="11">
+<position info="not_deleted" x="239" y="0"/>
+</item>
+<item historyLabel="Test.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Test.java" index="9">
+<position info="not_deleted" x="1353" y="0"/>
+</item>
+<item historyLabel="Test.java" index="9">
+<position info="not_deleted" x="1374" y="0"/>
+</item>
+<item historyLabel="Test.java" index="9">
+<position info="not_deleted" x="1403" y="0"/>
+</item>
+<item active="true" historyLabel="Test.java" index="9">
+<position info="not_deleted" x="1431" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -786,13 +789,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="right"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@17864c4"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -800,11 +796,16 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="bottom"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="StringTest/src/OftenUse/Test.java">
+<persistable path="/StringTest/src/OftenUse/Test.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringAddressTest.java" tooltip="StringTest/src/StringAddress/StringAddressTest.java">
+<persistable path="/StringTest/src/StringAddress/StringAddressTest.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test01.java" tooltip="TimeTest/src/DateTest/Test01.java">
 <persistable path="/TimeTest/src/DateTest/Test01.java"/>
 </file>
@@ -825,12 +826,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingletonTest.java" tooltip="0202Test/src/singletontest/SingletonTest.java">
 <persistable path="/0202Test/src/singletontest/SingletonTest.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="StringTest/src/OftenUse/Test.java">
-<persistable path="/StringTest/src/OftenUse/Test.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringAddressTest.java" tooltip="StringTest/src/StringAddress/StringAddressTest.java">
-<persistable path="/StringTest/src/StringAddress/StringAddressTest.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="ArrayTest/src/HotelText/Test.java">
 <persistable path="/ArrayTest/src/HotelText/Test.java"/>
