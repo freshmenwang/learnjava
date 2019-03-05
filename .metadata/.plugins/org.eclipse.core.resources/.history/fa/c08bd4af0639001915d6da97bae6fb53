@@ -1,6 +1,0 @@
-package HotelText;
-
-public class Hotel {
-	Room[][] rooms;
-	
-}
