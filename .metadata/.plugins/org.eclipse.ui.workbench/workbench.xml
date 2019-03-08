@@ -49,6 +49,7 @@
 <part id="8"/>
 <part id="9"/>
 <part id="10"/>
+<part id="11"/>
 </presentation>
 </folder>
 </info>
@@ -93,9 +94,13 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EnumTest/src/Test/EnumTest.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="55" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/EnumTest/src/Test/Test.java" title="Test.java" tooltip="EnumTest/src/Test/Test.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/EnumTest/src/Test/Test.java" title="Test.java" tooltip="EnumTest/src/Test/Test.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EnumTest/src/Test/Test.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="238" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LinkTest.java" partName="LinkTest.java" path="D:/learnjava/learnjava/CollectionTest/src/LinkTest/LinkTest.java" title="LinkTest.java" tooltip="CollectionTest/src/LinkTest/LinkTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CollectionTest/src/LinkTest/LinkTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="47" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -132,9 +137,6 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Warnings (1 item)"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -673,10 +675,8 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/Singleton01.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EnumTest/src/Test/EnumTest.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EnumTest/src/Test/Test.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/LinkTest/LinkTest.java"/>
 </editors>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="282" y="0"/>
-</item>
 <item historyLabel="Test.java" index="0">
 <position info="not_deleted" x="334" y="0"/>
 </item>
@@ -821,8 +821,11 @@
 <item historyLabel="Test.java" index="7">
 <position info="not_deleted" x="204" y="0"/>
 </item>
-<item active="true" historyLabel="Test.java" index="7">
+<item historyLabel="Test.java" index="7">
 <position info="not_deleted" x="239" y="0"/>
+</item>
+<item active="true" historyLabel="LinkTest.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -841,6 +844,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LinkTest.java" tooltip="CollectionTest/src/LinkTest/LinkTest.java">
+<persistable path="/CollectionTest/src/LinkTest/LinkTest.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="EnumTest/src/Test/Test.java">
 <persistable path="/EnumTest/src/Test/Test.java"/>
 </file>
@@ -882,9 +888,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test01.java" tooltip="TimeTest/src/CurrentTimeTest/Test01.java">
 <persistable path="/TimeTest/src/CurrentTimeTest/Test01.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="IntegerTest/src/AddressTest/Test.java">
-<persistable path="/IntegerTest/src/AddressTest/Test.java"/>
 </file>
 </mruList>
 </workbench>
