@@ -1,0 +1,21 @@
+package SortedSetTest;
+
+import java.util.Set;
+import java.util.TreeSet;
+
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Set s = new TreeSet();
+		s.add(100);
+		s.add(90);
+		s.add(80);
+		Set s1 = new TreeSet(new PriceComparator());
+		
+	}
+
+}

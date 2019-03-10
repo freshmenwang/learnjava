@@ -1,0 +1,5 @@
+package SortedSetTest;
+
+public class Price01 implements Comparable<T> {
+
+}

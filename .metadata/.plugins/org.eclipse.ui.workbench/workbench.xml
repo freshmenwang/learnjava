@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="32" version="2.0">
+<workbench progressCount="31" version="2.0">
 <workbenchAdvisor/>
 <window height="728" maximized="true" width="683" x="0" y="0">
 <fastViewData fastViewLocation="1024"/>
@@ -40,6 +40,12 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
 </presentation>
 </folder>
 </info>
@@ -48,9 +54,33 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CollectionTest/src/CollectionBaseTest/Test.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="530" selectionTopPixel="109"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayListTest.java" partName="ArrayListTest.java" path="D:/learnjava/learnjava/CollectionTest/src/ListTest/ArrayListTest.java" title="ArrayListTest.java" tooltip="CollectionTest/src/ListTest/ArrayListTest.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayListTest.java" partName="ArrayListTest.java" path="D:/learnjava/learnjava/CollectionTest/src/ListTest/ArrayListTest.java" title="ArrayListTest.java" tooltip="CollectionTest/src/ListTest/ArrayListTest.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CollectionTest/src/ListTest/ArrayListTest.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="303" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/CollectionTest/src/HashSetTest/Test.java" title="Test.java" tooltip="CollectionTest/src/HashSetTest/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CollectionTest/src/HashSetTest/Test.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="335" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Price.java" partName="Price.java" path="D:/learnjava/learnjava/CollectionTest/src/HashSetTest/Price.java" title="Price.java" tooltip="CollectionTest/src/HashSetTest/Price.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CollectionTest/src/HashSetTest/Price.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="356" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/CollectionTest/src/SortedSetTest/Test.java" title="Test.java" tooltip="CollectionTest/src/SortedSetTest/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CollectionTest/src/SortedSetTest/Test.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="537" selectionTopPixel="274"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PriceComparator.java" partName="PriceComparator.java" path="D:/learnjava/learnjava/CollectionTest/src/SortedSetTest/PriceComparator.java" title="PriceComparator.java" tooltip="CollectionTest/src/SortedSetTest/PriceComparator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CollectionTest/src/SortedSetTest/PriceComparator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="454" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Price.java" partName="Price.java" path="D:/learnjava/learnjava/CollectionTest/src/SortedSetTest/Price.java" title="Price.java" tooltip="CollectionTest/src/SortedSetTest/Price.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CollectionTest/src/SortedSetTest/Price.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="54" selectionOffset="116" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Price01.java" partName="Price01.java" path="D:/learnjava/learnjava/CollectionTest/src/SortedSetTest/Price01.java" title="Price01.java" tooltip="CollectionTest/src/SortedSetTest/Price01.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CollectionTest/src/SortedSetTest/Price01.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="463" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -88,8 +118,9 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings (1 item)"/>
+<category IMemento.internal.id="Warnings (14 items)"/>
 <category IMemento.internal.id="Warnings"/>
+<category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -621,164 +652,162 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/Singleton.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/0202Test/src/singletontest/Singleton01.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EnumTest/src/Test/EnumTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EnumTest/src/Test/Test.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/LinkTest/LinkTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TimeTest/src/CurrentTimeTest/Test01.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/CollectionBaseTest/Test.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/ListTest/ArrayListTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/SortedSetTest/Test.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/SortedSetTest/Price.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/SortedSetTest/PriceComparator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/SortedSetTest/Price01.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/HashSetTest/Test.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CollectionTest/src/HashSetTest/Price.java"/>
 </editors>
-<item historyLabel="Singleton.java" index="0">
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="304" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="1038" y="0"/>
+</item>
+<item historyLabel="Price.java" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Singleton01.java" index="1">
-<position info="not_deleted" x="206" y="21"/>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="256" y="0"/>
 </item>
-<item historyLabel="Singleton.java" index="0">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="71" y="5"/>
 </item>
-<item historyLabel="Singleton01.java" index="1">
-<position info="not_deleted" x="206" y="21"/>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="237" y="0"/>
 </item>
-<item historyLabel="EnumTest.java" index="2">
-<position info="not_deleted" x="55" y="0"/>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="71" y="15"/>
 </item>
-<item historyLabel="Test.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="PriceComparator.java" index="2">
+<position info="not_deleted" x="71" y="15"/>
 </item>
-<item historyLabel="Test.java" index="3">
-<position info="not_deleted" x="168" y="0"/>
+<item historyLabel="PriceComparator.java" index="2">
+<position info="not_deleted" x="312" y="0"/>
 </item>
-<item historyLabel="Test.java" index="3">
-<position info="not_deleted" x="285" y="0"/>
-</item>
-<item historyLabel="Test.java" index="3">
-<position info="not_deleted" x="204" y="0"/>
-</item>
-<item historyLabel="Test.java" index="3">
-<position info="not_deleted" x="239" y="0"/>
-</item>
-<item historyLabel="LinkTest.java" index="4">
-<position info="not_deleted" x="47" y="0"/>
-</item>
-<item historyLabel="Test01.java" index="5">
-<position info="not_deleted" x="239" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
+<item historyLabel="PriceComparator.java" index="2">
 <position info="not_deleted" x="284" y="0"/>
 </item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="675" y="0"/>
+<item historyLabel="PriceComparator.java" index="2">
+<position info="not_deleted" x="281" y="0"/>
 </item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="283" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="255" y="10"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="274" y="9"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="308" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="307" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="322" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="346" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="379" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="400" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="480" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="480" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="521" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="534" y="8"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="585" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="621" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="525" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="530" y="0"/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position/>
-</item>
-<item historyLabel="Test.java" index="6">
-<position info="not_deleted" x="530" y="0"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="243" y="0"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="400" y="0"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="233" y="9"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="400" y="0"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="220" y="4"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="258" y="0"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="273" y="0"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="288" y="0"/>
-</item>
-<item historyLabel="ArrayListTest.java" index="7">
+<item historyLabel="PriceComparator.java" index="2">
 <position info="not_deleted" x="305" y="0"/>
 </item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="341" y="0"/>
+<item historyLabel="PriceComparator.java" index="2">
+<position info="not_deleted" x="302" y="0"/>
 </item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="367" y="0"/>
+<item historyLabel="PriceComparator.java" index="2">
+<position info="not_deleted" x="380" y="0"/>
 </item>
-<item historyLabel="ArrayListTest.java" index="7">
-<position info="not_deleted" x="366" y="0"/>
+<item historyLabel="PriceComparator.java" index="2">
+<position info="not_deleted" x="454" y="0"/>
 </item>
-<item active="true" historyLabel="ArrayListTest.java" index="7">
-<position/>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="170" y="0"/>
+</item>
+<item historyLabel="PriceComparator.java" index="2">
+<position info="not_deleted" x="454" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="1038" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="446" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="582" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="478" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="478" y="0"/>
+</item>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="170" y="0"/>
+</item>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="109" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="478" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="401" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="310" y="8"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="359" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="394" y="0"/>
+</item>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="109" y="0"/>
+</item>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="166" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="394" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="306" y="0"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="466" y="0"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="39" y="7"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="267" y="0"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="303" y="0"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="288" y="0"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="286" y="0"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="378" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="958" y="0"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="463" y="0"/>
+</item>
+<item historyLabel="Price.java" index="1">
+<position info="not_deleted" x="116" y="54"/>
+</item>
+<item historyLabel="Price01.java" index="3">
+<position info="not_deleted" x="463" y="0"/>
+</item>
+<item historyLabel="PriceComparator.java" index="2">
+<position info="not_deleted" x="454" y="0"/>
+</item>
+<item historyLabel="Test.java" index="0">
+<position info="not_deleted" x="537" y="0"/>
+</item>
+<item historyLabel="Test.java" index="4">
+<position info="not_deleted" x="412" y="0"/>
+</item>
+<item historyLabel="Price.java" index="5">
+<position info="not_deleted" x="356" y="0"/>
+</item>
+<item active="true" historyLabel="Test.java" index="4">
+<position info="not_deleted" x="412" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -786,13 +815,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="right"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@17864c4"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -800,11 +822,31 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="bottom"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Price01.java" tooltip="CollectionTest/src/SortedSetTest/Price01.java">
+<persistable path="/CollectionTest/src/SortedSetTest/Price01.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Price.java" tooltip="CollectionTest/src/SortedSetTest/Price.java">
+<persistable path="/CollectionTest/src/SortedSetTest/Price.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="CollectionTest/src/SortedSetTest/Test.java">
+<persistable path="/CollectionTest/src/SortedSetTest/Test.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Price.java" tooltip="CollectionTest/src/HashSetTest/Price.java">
+<persistable path="/CollectionTest/src/HashSetTest/Price.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="CollectionTest/src/HashSetTest/Test.java">
+<persistable path="/CollectionTest/src/HashSetTest/Test.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Outer.java" tooltip="InnerClass/src/NimingInner/Outer.java">
+<persistable path="/InnerClass/src/NimingInner/Outer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CustomerService.java" tooltip="InnerClass/src/NimingInner/CustomerService.java">
+<persistable path="/InnerClass/src/NimingInner/CustomerService.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayListTest.java" tooltip="CollectionTest/src/ListTest/ArrayListTest.java">
 <persistable path="/CollectionTest/src/ListTest/ArrayListTest.java"/>
 </file>
@@ -828,27 +870,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingletonTest.java" tooltip="0202Test/src/singletontest/SingletonTest.java">
 <persistable path="/0202Test/src/singletontest/SingletonTest.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" tooltip="NumberTest/src/Test/Main.java">
-<persistable path="/NumberTest/src/Test/Main.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="RandomTest/src/RandomTest/Test.java">
-<persistable path="/RandomTest/src/RandomTest/Test.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="NumberTest/src/DecimalFormatTest/Test.java">
-<persistable path="/NumberTest/src/DecimalFormatTest/Test.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Calendar.class" tooltip="java.util.Calendar">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=TimeTest/C:\/Users\/Administrator\/AppData\/Local\/Genuitec\/Common\/binary\/com.sun.java.jdk.win32.x86_1.6.0.013\/jre\/lib\/rt.jar&lt;java.util(Calendar.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="TimeTest/src/CalendarTest/Test.java">
-<persistable path="/TimeTest/src/CalendarTest/Test.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="StringTest/src/OftenUse/Test.java">
-<persistable path="/StringTest/src/OftenUse/Test.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringAddressTest.java" tooltip="StringTest/src/StringAddress/StringAddressTest.java">
-<persistable path="/StringTest/src/StringAddress/StringAddressTest.java"/>
 </file>
 </mruList>
 </workbench>

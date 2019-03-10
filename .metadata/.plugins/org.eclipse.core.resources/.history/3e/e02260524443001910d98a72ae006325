@@ -1,0 +1,7 @@
+package SortedSetTest;
+
+import java.util.Comparator;
+
+public class Price implements Comparator<T> {
+
+}

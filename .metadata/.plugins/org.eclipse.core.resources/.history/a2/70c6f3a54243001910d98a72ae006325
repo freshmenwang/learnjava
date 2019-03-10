@@ -1,0 +1,24 @@
+package HashSetTest;
+
+public class Price {
+
+	int money;
+	public Price(int money){
+		this.money = money;
+	}
+	public boolean equals(Object o){
+		if(o instanceof Price && o1 instanceof Price){
+			if(((Price)o1).money == ((Price)o).money){
+				return true;
+			}else{
+				return false;
+			}
+		}else{
+			return false;
+		}
+	}
+	public String toString(){
+		return "money"+money;
+	}
+
+}

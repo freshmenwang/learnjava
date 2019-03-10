@@ -1,19 +1,8 @@
 INDEX VERSION 1.126+D:\learnjava\learnjava\.metadata\.plugins\org.eclipse.jdt.core
 2883550301.index
-2912978145.index
-1103432989.index
-172954369.index
-1322034095.index
 4135683144.index
 2647599234.index
-118057171.index
-3098228488.index
 27048017.index
-3735709337.index
-3656953678.index
 1458636063.index
-2743135241.index
-3473576570.index
-2020639458.index
+3656953678.index
 2488002495.index
-2540306578.index
