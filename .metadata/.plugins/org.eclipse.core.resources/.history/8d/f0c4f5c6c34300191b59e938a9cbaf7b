@@ -1,0 +1,11 @@
+package ShoppingCarTest;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class ShoppingCar {
+	private Map<Product,Integer> sc = new HashMap<Product,Integer>();
+	public void add(Product p,int n){
+		
+	} 
+}

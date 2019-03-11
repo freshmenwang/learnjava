@@ -1,0 +1,25 @@
+package FileOutputStream;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		FileOutputStream f = null;
+		byte[] bytes = new byte[1024];
+		try {
+			f = new FileOutputStream("D:\\test.txt");
+			
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+
+}

@@ -1,0 +1,23 @@
+package FileWriter;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		FileOutputStream f = null;
+		try {
+			f = new FileOutputStream("D:\\test.txt",true);
+			f.write(b
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+}
