@@ -1,0 +1,16 @@
+package BufferedTest;
+
+import java.io.BufferedReader;
+
+public class Test01 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		BufferedReader read = null;
+		read = new BufferedReader(new FileReader("D:\\test.txt"));
+	}
+
+}

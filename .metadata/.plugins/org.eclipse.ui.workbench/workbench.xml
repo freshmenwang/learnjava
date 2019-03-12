@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workbench progressCount="37" version="2.0">
 <workbenchAdvisor/>
-<window height="728" maximized="true" width="683" x="0" y="0">
+<window height="728" maximized="true" width="683" x="683" y="0">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -42,25 +42,35 @@
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
+<part id="4"/>
+<part id="5"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/IOTest/src/FileInputStreamTest/Test.java" title="Test.java" tooltip="IOTest/src/FileInputStreamTest/Test.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/FileInputStreamTest/Test.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="285" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/IOTest/src/PrintTest/Test.java" title="Test.java" tooltip="IOTest/src/PrintTest/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/PrintTest/Test.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="15" selectionOffset="323" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/IOTest/src/FileOutputStream/Test.java" title="Test.java" tooltip="IOTest/src/FileOutputStream/Test.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/FileOutputStream/Test.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="390" selectionTopPixel="154"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" partName="User.java" path="D:/learnjava/learnjava/IOTest/src/ObjectTest/User.java" title="User.java" tooltip="IOTest/src/ObjectTest/User.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/ObjectTest/User.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="272" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/IOTest/src/FileReaderTest/Test.java" title="Test.java" tooltip="IOTest/src/FileReaderTest/Test.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/FileReaderTest/Test.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="706" selectionTopPixel="124"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ObjectOutputStreamTest.java" partName="ObjectOutputStreamTest.java" path="D:/learnjava/learnjava/IOTest/src/ObjectTest/ObjectOutputStreamTest.java" title="ObjectOutputStreamTest.java" tooltip="IOTest/src/ObjectTest/ObjectOutputStreamTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/ObjectTest/ObjectOutputStreamTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="396" selectionTopPixel="19"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/learnjava/learnjava/IOTest/src/FileWriter/Test.java" title="Test.java" tooltip="IOTest/src/FileWriter/Test.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/FileWriter/Test.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="766" selectionTopPixel="184"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ObjectInputStreamTest.java" partName="ObjectInputStreamTest.java" path="D:/learnjava/learnjava/IOTest/src/ObjectTest/ObjectInputStreamTest.java" title="ObjectInputStreamTest.java" tooltip="IOTest/src/ObjectTest/ObjectInputStreamTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/ObjectTest/ObjectInputStreamTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="464" selectionTopPixel="4"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OftenUseTest.java" partName="OftenUseTest.java" path="D:/learnjava/learnjava/IOTest/src/FileTest/OftenUseTest.java" title="OftenUseTest.java" tooltip="IOTest/src/FileTest/OftenUseTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/FileTest/OftenUseTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="636" selectionTopPixel="94"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Copy.java" partName="Copy.java" path="D:/learnjava/learnjava/IOTest/src/FileTest/Copy.java" title="Copy.java" tooltip="IOTest/src/FileTest/Copy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOTest/src/FileTest/Copy.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="590" selectionTopPixel="154"/>
 </editor>
 </editors>
 <views>
@@ -98,8 +108,7 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings (52 items)"/>
-<category IMemento.internal.id="Warnings"/>
+<category IMemento.internal.id="Warnings (66 items)"/>
 <category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
@@ -632,159 +641,159 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IOTest/src/FileOutputStream/Test.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IOTest/src/FileReaderTest/Test.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IOTest/src/FileTest/OftenUseTest.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IOTest/src/FileWriter/Test.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IOTest/src/FileTest/Copy.java"/>
 </editors>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="825" y="0"/>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="331" y="0"/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="330" y="0"/>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="392" y="0"/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="294" y="0"/>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="432" y="0"/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="294" y="0"/>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="569" y="0"/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="328" y="0"/>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="569" y="0"/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="431" y="0"/>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="600" y="0"/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="416" y="14"/>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="639" y="0"/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="657" y="0"/>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="681" y="0"/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="810" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="687" y="0"/>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="717" y="0"/>
 </item>
 <item historyLabel="Test.java" index="1">
+<position info="not_deleted" x="343" y="14"/>
+</item>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="723" y="0"/>
+</item>
+<item historyLabel="Copy.java" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="851" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="341" y="0"/>
 </item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="260" y="10"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="355" y="0"/>
 </item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="289" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="328" y="4"/>
 </item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="312" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="392" y="0"/>
 </item>
-<item historyLabel="Test.java" index="1">
-<position/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="353" y="0"/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="390" y="14"/>
-</item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="285" y="0"/>
-</item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="362" y="0"/>
-</item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="412" y="0"/>
-</item>
-<item historyLabel="Test.java" index="1">
+<item historyLabel="Copy.java" index="2">
 <position info="not_deleted" x="411" y="0"/>
 </item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="472" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="498" y="0"/>
 </item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="399" y="13"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="1284" y="0"/>
 </item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="470" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="1284" y="0"/>
 </item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="469" y="0"/>
-</item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="704" y="0"/>
-</item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="840" y="0"/>
-</item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="706" y="0"/>
-</item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="687" y="0"/>
-</item>
-<item historyLabel="Test.java" index="1">
-<position info="not_deleted" x="706" y="0"/>
-</item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="288" y="0"/>
-</item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="290" y="4"/>
-</item>
-<item historyLabel="Test.java" index="2">
+<item historyLabel="Copy.java" index="2">
 <position/>
 </item>
-<item historyLabel="Test.java" index="0">
-<position info="not_deleted" x="390" y="19"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="677" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="228" y="41"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="983" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="387" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="810" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="387" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="817" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="387" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="833" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="342" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="879" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="290" y="10"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="820" y="14"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="387" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="1016" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="328" y="35"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="969" y="14"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="503" y="11"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="947" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="387" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="949" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="613" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="901" y="16"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="1016" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="766" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="1148" y="0"/>
 </item>
-<item historyLabel="Test.java" index="2">
-<position info="not_deleted" x="766" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="1310" y="0"/>
 </item>
-<item active="true" historyLabel="Test.java" index="1">
-<position info="not_deleted" x="706" y="0"/>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="1182" y="0"/>
+</item>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="723" y="0"/>
+</item>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="1182" y="0"/>
+</item>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="479" y="0"/>
+</item>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="497" y="0"/>
+</item>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="422" y="0"/>
+</item>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="845" y="0"/>
+</item>
+<item historyLabel="OftenUseTest.java" index="0">
+<position info="not_deleted" x="636" y="5"/>
+</item>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="845" y="0"/>
+</item>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="619" y="0"/>
+</item>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="539" y="15"/>
+</item>
+<item historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="645" y="0"/>
+</item>
+<item active="true" historyLabel="Copy.java" index="2">
+<position info="not_deleted" x="415" y="85"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -803,6 +812,33 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Copy.java" tooltip="IOTest/src/FileTest/Copy.java">
+<persistable path="/IOTest/src/FileTest/Copy.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OftenUseTest.java" tooltip="IOTest/src/FileTest/OftenUseTest.java">
+<persistable path="/IOTest/src/FileTest/OftenUseTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ObjectInputStreamTest.java" tooltip="IOTest/src/ObjectTest/ObjectInputStreamTest.java">
+<persistable path="/IOTest/src/ObjectTest/ObjectInputStreamTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ObjectOutputStreamTest.java" tooltip="IOTest/src/ObjectTest/ObjectOutputStreamTest.java">
+<persistable path="/IOTest/src/ObjectTest/ObjectOutputStreamTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" tooltip="IOTest/src/ObjectTest/User.java">
+<persistable path="/IOTest/src/ObjectTest/User.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="IOTest/src/PrintTest/Test.java">
+<persistable path="/IOTest/src/PrintTest/Test.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="IOTest/src/DataStreamTest/Test.java">
+<persistable path="/IOTest/src/DataStreamTest/Test.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test01.java" tooltip="IOTest/src/BufferedTest/Test01.java">
+<persistable path="/IOTest/src/BufferedTest/Test01.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test01.java" tooltip="IOTest/src/CopyTest/Test01.java">
+<persistable path="/IOTest/src/CopyTest/Test01.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="IOTest/src/FileWriter/Test.java">
 <persistable path="/IOTest/src/FileWriter/Test.java"/>
 </file>
@@ -820,33 +856,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="CollectionTest/src/ShoppingCarTest/Test.java">
 <persistable path="/CollectionTest/src/ShoppingCarTest/Test.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShoppingCar.java" tooltip="CollectionTest/src/ShoppingCarTest/ShoppingCar.java">
-<persistable path="/CollectionTest/src/ShoppingCarTest/ShoppingCar.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Product.java" tooltip="CollectionTest/src/ShoppingCarTest/Product.java">
-<persistable path="/CollectionTest/src/ShoppingCarTest/Product.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Person.java" tooltip="CollectionTest/src/GenericTest/Person.java">
-<persistable path="/CollectionTest/src/GenericTest/Person.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="CollectionTest/src/GenericTest/Test.java">
-<persistable path="/CollectionTest/src/GenericTest/Test.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="CollectionTest/src/CollectionsTest/Test.java">
-<persistable path="/CollectionTest/src/CollectionsTest/Test.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BaseTest.java" tooltip="MapTest/src/HashMapTest/BaseTest.java">
-<persistable path="/MapTest/src/HashMapTest/BaseTest.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Price01.java" tooltip="CollectionTest/src/SortedSetTest/Price01.java">
-<persistable path="/CollectionTest/src/SortedSetTest/Price01.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Price.java" tooltip="CollectionTest/src/SortedSetTest/Price.java">
-<persistable path="/CollectionTest/src/SortedSetTest/Price.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="CollectionTest/src/SortedSetTest/Test.java">
-<persistable path="/CollectionTest/src/SortedSetTest/Test.java"/>
 </file>
 </mruList>
 </workbench>

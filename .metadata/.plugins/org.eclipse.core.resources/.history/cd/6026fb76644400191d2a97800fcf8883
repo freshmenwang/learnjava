@@ -1,0 +1,23 @@
+package CopyTest;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+public class Test01 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		FileInputStream f = null;
+		try {
+			f = new FileInputStream("D:\\test.txt");
+			
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+}
