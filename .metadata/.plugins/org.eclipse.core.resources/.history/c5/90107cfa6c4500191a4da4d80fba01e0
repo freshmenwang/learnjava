@@ -1,0 +1,13 @@
+package TimerTest;
+
+import java.util.TimerTask;
+
+public class TimetaskDemo extends TimerTask {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

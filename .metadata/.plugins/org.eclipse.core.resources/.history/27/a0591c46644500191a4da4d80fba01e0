@@ -1,0 +1,25 @@
+package SynchronizedTest;
+
+public class Deadlock implements Runnable {
+
+	Account a1;
+	Account a2;
+	
+	public Deadlock(Account a1, Account a2) {
+		super();
+		this.a1 = a1;
+		this.a2 = a2;
+	}
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		synchronized(a1){
+			Thread.sleep(1000);
+			synchronized(a2){
+				
+			}
+		}
+	}
+
+}

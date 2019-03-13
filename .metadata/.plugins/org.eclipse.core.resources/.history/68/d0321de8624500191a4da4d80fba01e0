@@ -1,0 +1,11 @@
+package SynchronizedTest;
+
+public class ClassProcessor implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

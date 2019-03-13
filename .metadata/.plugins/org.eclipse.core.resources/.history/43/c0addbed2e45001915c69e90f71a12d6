@@ -1,0 +1,11 @@
+package RunnableTest;
+
+public class Runnable01 implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

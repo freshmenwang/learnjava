@@ -1,0 +1,21 @@
+package SchedulingTest;
+
+public class Processeryield implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		for(int i = 0;i < 100;i++){
+			try {
+				if(i % 20 == 0){
+					Thread.yield();
+				}
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				
+			}
+			System.out.println(Thread.currentThread().getName()+"---->"+i);
+		}
+	}
+
+}

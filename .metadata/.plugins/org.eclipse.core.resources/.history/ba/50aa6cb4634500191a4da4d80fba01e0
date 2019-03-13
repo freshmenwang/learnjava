@@ -1,0 +1,11 @@
+package SynchronizedTest;
+
+public class Deadlock implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

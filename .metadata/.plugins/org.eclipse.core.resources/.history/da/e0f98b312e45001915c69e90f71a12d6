@@ -1,0 +1,5 @@
+package ThreadExtendxTest;
+
+public class Thread01 extends Thread {
+	
+}

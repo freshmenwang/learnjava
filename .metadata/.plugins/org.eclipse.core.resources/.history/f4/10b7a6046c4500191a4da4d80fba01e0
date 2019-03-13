@@ -1,0 +1,15 @@
+package DeamoTest;
+
+public class ProcessorDeamo implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		int i = 0;
+		while(true){
+			i++;
+			System.out.println(Thread.currentThread().getName()+"--->"+i);
+		}
+	}
+
+}
