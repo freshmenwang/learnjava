@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-task-tag-projects-already-scanned=JavaTest,20190122Test,0125Test,0127,0202Test,0207Test,InnerClass,ObjectTest,ExceptionTest,ArrayTest,StringTest,IntegerTest,TimeTest,NumberTest,RandomTest,EnumTest,CollectionTest,MapTest,IOTest,ThreadTest
+task-tag-projects-already-scanned=JavaTest,20190122Test,0125Test,0127,0202Test,0207Test,InnerClass,ObjectTest,ExceptionTest,ArrayTest,StringTest,IntegerTest,TimeTest,NumberTest,RandomTest,EnumTest,CollectionTest,MapTest,IOTest,ThreadTest,ReflectTest
