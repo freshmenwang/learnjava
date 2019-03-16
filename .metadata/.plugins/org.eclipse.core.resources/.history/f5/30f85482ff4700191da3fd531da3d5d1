@@ -1,0 +1,22 @@
+package MethodTest;
+
+import java.lang.reflect.Modifier;
+
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		StringBuffer str = new StringBuffer();
+		try {
+			Class c = Class.forName("java.lang.String");
+			str.append(Modifier.toString(c.getModifiers()));
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+}
