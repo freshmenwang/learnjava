@@ -1,5 +1,0 @@
-package SortedSetTest;
-
-public class Price {
-	int money;
-}

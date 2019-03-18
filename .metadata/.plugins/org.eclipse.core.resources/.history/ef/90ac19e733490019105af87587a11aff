@@ -1,0 +1,18 @@
+package WaitAndNotifiyAll;
+
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Num n = new Num(0);
+		Thread t1 = new Thread(new Processor(n));
+		Thread t2 = new Thread(new Processor1(n));
+		t1.start();
+		Thread.sleep(1000);
+		t2.start();
+	}
+
+}

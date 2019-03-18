@@ -1,0 +1,11 @@
+package WaitAndNotifiyAll;
+
+public class Num {
+	private int num;
+	public Num(int num){
+		this.num = num;
+	}
+	public synchronized void showOdd(){
+		System.out.println(++num);
+	}
+}

@@ -1,0 +1,7 @@
+package LinkTest;
+
+public class Link {
+	class Node{
+		
+	}
+}
