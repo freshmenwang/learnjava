@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>表单练习</title>
+	<meta content="text.html;charset=utf-8">
+</head>
+<body>
+	<form name="regist" action="http://localhost:8080/cs" method="get">
+		所在地
+			<input type="text" name="address" value="hangzhou" disabled />
+		<br>
+		公司
+			<input type="text" name="company" value="teyang.net" readonly />
+		<br>
+		用户名
+			<input type="text" name="username" />
+		<br>
+		密码
+			<input type="password" name="password" maxlength="6" />
+		<br>
+		性别
+			<input type="radio" name="sex" value="1" checked />男
+			<input type="radio" name="sex" value="0" />女
+		<br>
+		兴趣
+			<input type="checkbox" name="interest" value="basketball" checked />篮球
+			<input type="checkbox" name="interest" value="football">足球
+			<input type="checkbox" name="interest" value="swimming">游泳
+			<input type="checkbox" name="interest" value="running">跑步
+		<br>
+		学历
+			<select name="xueli">
+				<option value="0" selected>博士</option>
+				<option value="1">研究生</option>
+				<option value="2">本科</option>
+				<option value="3">高中</option>
+				<option value="4">中学</option>
+				<option value="5">小学</option>
+			</select>
+		<br>
+		地址
+			<textarea cols="20" rows="10" name="address">		
+			</textarea>
+		<br>
+		文件
+			<input type="file" name="file">
+		<br>
+			<input type="button" name="button1" value="按钮">
+		<br>
+			<input type="hidden" name="hidden" value="2">
+		<br>
+			<input type="submit" name="submit" value="提交">
+			<input type="reset" name="reset" value="重置">
+	</form>
+</body>
+</html>
