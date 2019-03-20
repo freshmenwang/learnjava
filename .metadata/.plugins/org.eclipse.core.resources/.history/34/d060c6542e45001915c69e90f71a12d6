@@ -1,7 +1,0 @@
-package ThreadExtendxTest;
-
-public class Thread01 extends Thread {
-	public void run(){
-		System.out.println("Thread01 running");
-	}
-}
