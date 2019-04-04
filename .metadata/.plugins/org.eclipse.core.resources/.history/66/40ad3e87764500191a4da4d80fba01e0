@@ -1,7 +1,0 @@
-package ClassTest;
-
-public class Employee {
-	public void m(){
-		System.out.println("m running");
-	}
-}

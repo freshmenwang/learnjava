@@ -1,0 +1,27 @@
+package ziJieTiaoDong;
+
+public class Main3 {
+//	树的蛇型输出：奇数行从左到右，偶数行从右到左，从根开始输出，根节点算0层
+	
+	public static void printTree(Node root,int n){
+		if(n==0){
+			System.out.println(root);
+			printTree(root.right,n+1);
+			printTree(root.left,n+1);
+		}else{
+			if(n%2==0){
+				System.out.print(root+" ");
+				if(root.left!=null){
+					printTree(root.left,1);
+				}
+				if(root.right!=null){
+					printTree(root.right,1);
+				}
+				System.out.println();
+			}else{
+				System.out.print(root+" ");
+			}
+		}
+	}
+
+}

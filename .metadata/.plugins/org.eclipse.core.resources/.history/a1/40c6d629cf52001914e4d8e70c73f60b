@@ -1,0 +1,24 @@
+package ziJieTiaoDong;
+
+public class Main3 {
+
+	
+	public static int maxlength(Node root){
+		if(root.right==null&&root.left==null){
+			return 1;
+		}else{
+			if(root.right!=null&&root.left!=null){
+				if(maxlength(root.right)>maxlength(root.left)){
+					return maxlength(root.right)+1;
+				}else{
+					return maxlength(root.left)+1;
+				}
+			}else if(root.right!=null&&root.left==null){
+				return maxlength(root.right)+1;
+			}else{
+				return maxlength(root.left)+1;
+			}
+		}
+	}
+
+}
