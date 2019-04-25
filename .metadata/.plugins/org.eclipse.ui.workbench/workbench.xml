@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="31" version="2.0">
+<workbench progressCount="32" version="2.0">
 <workbenchAdvisor/>
 <window height="728" maximized="true" width="683" x="492" y="1">
 <fastViewData fastViewLocation="1024"/>
@@ -8,7 +8,7 @@
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="304" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="197" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="com.genuitec.eclipse.j2eedt.core.ejb" itemType="typeToolBarContribution" x="55" y="22"/>
 <coolItem id="com.genuitec.eclipse.uml.actions" itemType="typeToolBarContribution" x="61" y="22"/>
@@ -21,14 +21,14 @@
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="175" y="22"/>
 <coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="101" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="101" y="22"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="107" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="198" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
@@ -37,10 +37,51 @@
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+</presentation>
 </folder>
 </info>
 </editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test04.java" partName="Test04.java" path="D:/learnjava/learnjava/WrittenExamination/src/Test/Test04.java" title="Test04.java" tooltip="WrittenExamination/src/Test/Test04.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WrittenExamination/src/Test/Test04.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1116" selectionTopPixel="502"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TreeNode.java" partName="TreeNode.java" path="D:/learnjava/learnjava/WrittenExamination/src/Test/TreeNode.java" title="TreeNode.java" tooltip="WrittenExamination/src/Test/TreeNode.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WrittenExamination/src/Test/TreeNode.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="133" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test03.java" partName="Test03.java" path="D:/learnjava/learnjava/WrittenExamination/src/Test/Test03.java" title="Test03.java" tooltip="WrittenExamination/src/Test/Test03.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WrittenExamination/src/Test/Test03.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="187"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test05.java" partName="Test05.java" path="D:/learnjava/learnjava/WrittenExamination/src/Test/Test05.java" title="Test05.java" tooltip="WrittenExamination/src/Test/Test05.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WrittenExamination/src/Test/Test05.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="534" selectionTopPixel="37"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test06.java" partName="Test06.java" path="D:/learnjava/learnjava/WrittenExamination/src/Test/Test06.java" title="Test06.java" tooltip="WrittenExamination/src/Test/Test06.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WrittenExamination/src/Test/Test06.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="468" selectionOffset="378" selectionTopPixel="165"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test07.java" partName="Test07.java" path="D:/learnjava/learnjava/WrittenExamination/src/Test/Test07.java" title="Test07.java" tooltip="WrittenExamination/src/Test/Test07.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WrittenExamination/src/Test/Test07.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="18" selectionOffset="332" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test08.java" partName="Test08.java" path="D:/learnjava/learnjava/WrittenExamination/src/Test/Test08.java" title="Test08.java" tooltip="WrittenExamination/src/Test/Test08.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WrittenExamination/src/Test/Test08.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="599" selectionTopPixel="127"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test09.java" partName="Test09.java" path="D:/learnjava/learnjava/WrittenExamination/src/Test/Test09.java" title="Test09.java" tooltip="WrittenExamination/src/Test/Test09.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WrittenExamination/src/Test/Test09.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1212" selectionOffset="460" selectionTopPixel="352"/>
+</editor>
 </editors>
 <views>
 <view id="com.genuitec.eclipse.ui.HTMLView" partName="Web Browser"/>
@@ -76,9 +117,6 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Warnings (1 item)"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -125,7 +163,7 @@
 </view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.genuitec.myeclipse.perspective.MyEclipsePerspectiveFactory" id="com.genuitec.myeclipse.perspective.myeclipseperspective" label="MyEclipse Java Enterprise"/>
 <alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
@@ -607,7 +645,166 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/WrittenExamination/src/Test/Test07.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/WrittenExamination/src/Test/Test08.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/WrittenExamination/src/Test/ListNode.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=WrittenExamination/C:\/Users\/Administrator\/AppData\/Local\/Genuitec\/Common\/binary\/com.sun.java.jdk.win32.x86_1.6.0.013\/jre\/lib\/rt.jar&lt;java.util(List.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/WrittenExamination/src/Test/Test09.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/WrittenExamination/src/Test/Test08.java"/>
+</editors>
+<item historyLabel="Test07.java" index="0">
+<position info="not_deleted" x="539" y="0"/>
+</item>
+<item historyLabel="Test07.java" index="0">
+<position info="not_deleted" x="527" y="0"/>
+</item>
+<item historyLabel="Test07.java" index="0">
+<position info="not_deleted" x="350" y="0"/>
+</item>
+<item historyLabel="Test07.java" index="0">
+<position info="not_deleted" x="526" y="1"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="671" y="0"/>
+</item>
+<item historyLabel="ListNode.java" index="2">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="671" y="0"/>
+</item>
+<item historyLabel="ListNode.java" index="2">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="671" y="0"/>
+</item>
+<item historyLabel="ListNode.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="671" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="671" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="370" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="453" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position/>
+</item>
+<item historyLabel="List.class" index="3">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="List.class" index="3">
+<position info="not_deleted" x="4137" y="4"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="209" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="262" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="398" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="360" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="329" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="463" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="588" y="0"/>
+</item>
+<item historyLabel="Test08.java" index="1">
+<position info="not_deleted" x="599" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="959" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="1005" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="1291" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="299" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="432" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="421" y="6"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="183" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="218" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="249" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="280" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="312" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="333" y="0"/>
+</item>
+<item historyLabel="Test09.java" index="4">
+<position/>
+</item>
+<item historyLabel="Test08.java" index="5">
+<position info="not_deleted" x="599" y="0"/>
+</item>
+<item active="true" historyLabel="Test09.java" index="4">
+<position info="not_deleted" x="1527" y="0"/>
+</item>
+</navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
@@ -624,50 +821,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main3.java" tooltip="WrittenExamination/src/ziJieTiaoDong/Main3.java">
-<persistable path="/WrittenExamination/src/ziJieTiaoDong/Main3.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test09.java" tooltip="WrittenExamination/src/Test/Test09.java">
+<persistable path="/WrittenExamination/src/Test/Test09.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Singleton01.java" tooltip="0202Test/src/singletontest/Singleton01.java">
-<persistable path="/0202Test/src/singletontest/Singleton01.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ListNode.java" tooltip="WrittenExamination/src/Test/ListNode.java">
+<persistable path="/WrittenExamination/src/Test/ListNode.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Processor1.java" tooltip="ThreadTest/src/WaitAndNotifiyAll/Processor1.java">
-<persistable path="/ThreadTest/src/WaitAndNotifiyAll/Processor1.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test08.java" tooltip="WrittenExamination/src/Test/Test08.java">
+<persistable path="/WrittenExamination/src/Test/Test08.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Runnable01.java" tooltip="ThreadTest/src/RunnableTest/Runnable01.java">
-<persistable path="/ThreadTest/src/RunnableTest/Runnable01.java"/>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="List.class" tooltip="java.util.List">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=WrittenExamination/C:\/Users\/Administrator\/AppData\/Local\/Genuitec\/Common\/binary\/com.sun.java.jdk.win32.x86_1.6.0.013\/jre\/lib\/rt.jar&lt;java.util(List.class"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Processor.java" tooltip="ThreadTest/src/WaitAndNotifiyAll/Processor.java">
-<persistable path="/ThreadTest/src/WaitAndNotifiyAll/Processor.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test07.java" tooltip="WrittenExamination/src/Test/Test07.java">
+<persistable path="/WrittenExamination/src/Test/Test07.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="ThreadTest/src/WaitAndNotifiyAll/Test.java">
-<persistable path="/ThreadTest/src/WaitAndNotifiyAll/Test.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test06.java" tooltip="WrittenExamination/src/Test/Test06.java">
+<persistable path="/WrittenExamination/src/Test/Test06.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Deadlock.java" tooltip="ThreadTest/src/SynchronizedTest/Deadlock.java">
-<persistable path="/ThreadTest/src/SynchronizedTest/Deadlock.java"/>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Stack.class" tooltip="java.util.Stack">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=WrittenExamination/C:\/Users\/Administrator\/AppData\/Local\/Genuitec\/Common\/binary\/com.sun.java.jdk.win32.x86_1.6.0.013\/jre\/lib\/rt.jar&lt;java.util(Stack.class"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Processor.java" tooltip="ThreadTest/src/SynchronizedTest/Processor.java">
-<persistable path="/ThreadTest/src/SynchronizedTest/Processor.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test05.java" tooltip="WrittenExamination/src/Test/Test05.java">
+<persistable path="/WrittenExamination/src/Test/Test05.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Num.java" tooltip="ThreadTest/src/WaitAndNotifiyAll/Num.java">
-<persistable path="/ThreadTest/src/WaitAndNotifiyAll/Num.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test03.java" tooltip="WrittenExamination/src/Test/Test03.java">
+<persistable path="/WrittenExamination/src/Test/Test03.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayCopyTest.java" tooltip="ArrayTest/src/ArrayCopy/ArrayCopyTest.java">
+<persistable path="/ArrayTest/src/ArrayCopy/ArrayCopyTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TreeNode.java" tooltip="WrittenExamination/src/Test/TreeNode.java">
+<persistable path="/WrittenExamination/src/Test/TreeNode.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test04.java" tooltip="WrittenExamination/src/Test/Test04.java">
+<persistable path="/WrittenExamination/src/Test/Test04.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ArrayList.class" tooltip="java.util.ArrayList">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=ArrayTest/C:\/Users\/Administrator\/AppData\/Local\/Genuitec\/Common\/binary\/com.sun.java.jdk.win32.x86_1.6.0.013\/jre\/lib\/rt.jar&lt;java.util(ArrayList.class"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="CollectionTest/src/LinkTest/Test.java">
 <persistable path="/CollectionTest/src/LinkTest/Test.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Outer.java" tooltip="InnerClass/src/ChengyuanInner/Outer.java">
-<persistable path="/InnerClass/src/ChengyuanInner/Outer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Link.java" tooltip="CollectionTest/src/LinkTest/Link.java">
-<persistable path="/CollectionTest/src/LinkTest/Link.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LinkTest.java" tooltip="CollectionTest/src/LinkTest/LinkTest.java">
-<persistable path="/CollectionTest/src/LinkTest/LinkTest.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="ReflectTest/src/ConstructorTest/Test.java">
-<persistable path="/ReflectTest/src/ConstructorTest/Test.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" tooltip="ReflectTest/src/ConstructorTest/User.java">
-<persistable path="/ReflectTest/src/ConstructorTest/User.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ListNode.java" tooltip="CollectionTest/src/ListTest/ListNode.java">
+<persistable path="/CollectionTest/src/ListTest/ListNode.java"/>
 </file>
 </mruList>
 </workbench>

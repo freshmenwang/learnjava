@@ -39,8 +39,10 @@ public class Test {
 		System.out.println(o);
 		StringBuffer sb = new StringBuffer();
 		sb.append("abc");
+		sb.replace(0,1,"dd");
 		System.out.println(sb);
-		
+		System.out.println(sb.length());
+		System.out.println(sb.charAt(2));
 	}
 
 }
